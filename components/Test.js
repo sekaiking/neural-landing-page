@@ -7,8 +7,6 @@ export default function Test() {
     <style jsx>{`
         height: 2000px;
         width: 100%;
-        background: red;
-        background: #010101;
     `}</style>
         </div>
     )
